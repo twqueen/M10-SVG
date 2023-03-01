@@ -64,10 +64,10 @@ function init() {
 
         function generateSVG(data) {
             return `
-            <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
-            ${renderShape()}
-            <text x="150" y="150" font-size="60" text-anchor="middle" fill="${data.textColor}">${data.logoText}</text>
-            </svg>`
+<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+${renderShape()}
+<text x="150" y="150" font-size="60" text-anchor="middle" fill="${data.textColor}">${data.logoText}</text>
+</svg>`
         }
 
         fs.writeFile('./examples/logo.svg', generateSVG(data), (err) =>
