@@ -70,8 +70,8 @@ ${renderShape()}
 </svg>`
         }
 
-        fs.writeFile('./examples/logo.svg', generateSVG(data), (err) =>
-            err ? console.log(err) : console.log('Successfully created your svg file in examples folder. If you like the look of your newly generated logo, please save and rename the image.'))
+        fs.writeFile(`./samples/${data.logoText}.svg`, generateSVG(data), (err) =>
+            err ? console.log(err) : console.log('Successfully created your svg file in samples folder (=✪ᆽ✪=)'))
     });
 };
 
