@@ -21,9 +21,9 @@ and
 Recent version of inquirer will not work with this tool.
 
 ## Usage
-Sample video link:
+Sample video link: https://drive.google.com/file/d/1Sd67IarA1m_OklsJPfdYVQ4y0PbA0LSI/view
 
-![gif of application walkthrough]()
+![gif of application walkthrough](./samples/SVG-walkthrough.gif)
 ![Sample logo](./samples/Sample-Square-UWU.svg)
 
 ## Credits
