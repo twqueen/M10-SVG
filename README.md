@@ -6,8 +6,6 @@
   * [Usage](#usage)
   * [Licenses](#license)
   * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
   * [Credits](#credits)
     
 ## Description
@@ -26,13 +24,11 @@ Sample video link: https://drive.google.com/file/d/1Sd67IarA1m_OklsJPfdYVQ4y0PbA
 ![gif of application walkthrough](./samples/SVG-walkthrough.gif)
 ![Sample logo](./samples/Sample-Square-UWU.svg)
 
-## Credits
-* Sample: https://github.com/ThomasCalle/Thomas-Object-Oriented-Programming-SVG-Logo-Maker
-
 ## License
 MIT License
 
 ## Contributing
 Feel free to clone or fork the repo and create any changes you wish to make the application better!
 
-
+## Credits
+* Sample: https://github.com/ThomasCalle/Thomas-Object-Oriented-Programming-SVG-Logo-Maker
